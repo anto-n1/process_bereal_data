@@ -6,4 +6,4 @@ This script automatically renames and organizes your BeReal photos based on the 
 
 Feel free to suggest improvements or ask any questions! 😊
 
-Made with love from :fr:
+Made with :heart: from :fr:
